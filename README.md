@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChatterBox
 
 Real-time chat application built with React and Spring Boot. Talk with online friends, either in private or public ways.
@@ -42,3 +43,6 @@ Public Conversation
     docker-compose up --build -d
     ````
 **Warning**: *Be sure that no other app is running on port 3000, 8080 or 5432*
+=======
+# Chat-Application-
+>>>>>>> ef2098ace4d1c62e6dbb1263a43565ffa5877bf3
